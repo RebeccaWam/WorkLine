@@ -1,0 +1,42 @@
+body {
+    background:#eee;
+}
+
+.dropdown {
+    display: inline-block;
+    position: relative;
+  }
+
+.dropdown-options {
+  display: none;
+  position: absolute;
+  overflow: auto;
+}
+
+.dropdown:hover .dropdown-options {
+  display: block;
+}
+
+html,
+body,
+.view {
+    height:100%;
+}
+
+.navbar-brand {
+    color:#fff !important;
+}
+
+.profile-photo {
+    width:48px;
+    height:auto;
+}
+
+.flex-menu {
+    display:flex;
+}
+
+.flex-menu li:not(:last-child) {
+    margin-right:40px;
+}
+
