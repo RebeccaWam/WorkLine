@@ -1,6 +1,8 @@
 # WorkLine
 LifeHack 2023 Workplace Social Media Application
+
 by People mover
+
 Caleb Chia and Rebecca Wam
 
 ## How to operate and deploy WorkLine
